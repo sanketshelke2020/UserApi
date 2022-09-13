@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserApi", "UserApi.csproj", "{19D62BCB-04BA-4347-88E1-9E504D6D019D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodDishApi", "..\FoodDishApi\FoodDishApi.csproj", "{27E67305-7A6C-4AA0-AD41-24178830E7D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApi", "..\BookingApi\BookingApi.csproj", "{1C073188-DEB3-42AE-B4C8-3C0C8F833D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D62BCB-04BA-4347-88E1-9E504D6D019D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D62BCB-04BA-4347-88E1-9E504D6D019D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D62BCB-04BA-4347-88E1-9E504D6D019D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D62BCB-04BA-4347-88E1-9E504D6D019D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E67305-7A6C-4AA0-AD41-24178830E7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E67305-7A6C-4AA0-AD41-24178830E7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E67305-7A6C-4AA0-AD41-24178830E7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E67305-7A6C-4AA0-AD41-24178830E7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C073188-DEB3-42AE-B4C8-3C0C8F833D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C073188-DEB3-42AE-B4C8-3C0C8F833D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C073188-DEB3-42AE-B4C8-3C0C8F833D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C073188-DEB3-42AE-B4C8-3C0C8F833D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60649CF4-4488-4861-8579-6F2445ABC9BF}
+	EndGlobalSection
+EndGlobal
